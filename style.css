@@ -1,0 +1,22 @@
+#counter{
+    font-size:50px;
+    color: #fe0000;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#buttonContainer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button{
+    font-size: 40px;
+    padding: 10px 20px;
+    background-color: #fe0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
