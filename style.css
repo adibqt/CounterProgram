@@ -11,12 +11,17 @@
     margin-top: 20px;
 }
 
-.button{
-    font-size: 40px;
+.buttons{
     padding: 10px 20px;
-    background-color: #fe0000;
-    color: #fff;
-    border: none;
+    font-size: 1em;
+
+    color : rgb(231, 14, 14);
+    background-color: #94c3ef;
     border-radius: 5px;
     cursor: pointer;
+    transition: background-color 0.3s;
+
+}
+.buttons:hover{
+    background-color: #e7b6a6;
 }
